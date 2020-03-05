@@ -41,12 +41,13 @@
 <node CREATED="1583317184650" ID="ID_103465533" MODIFIED="1583317185178" TEXT="customer centric"/>
 </node>
 <node CREATED="1583317539538" ID="ID_1592445111" MODIFIED="1583317548602" TEXT="refine backlog"/>
-<node CREATED="1583317552937" ID="ID_268784501" MODIFIED="1583395034106" TEXT="product vision">
-<node CREATED="1583331793734" ID="ID_1915439953" MODIFIED="1583331801422" TEXT="make sure the team fully understands it"/>
-<node CREATED="1583331829849" ID="ID_1666293176" MODIFIED="1583331831414" TEXT="product vision inspires the team to common goals"/>
+<node CREATED="1583317552937" ID="ID_268784501" MODIFIED="1583403720782" TEXT="product vision">
+<icon BUILTIN="idea"/>
+<node CREATED="1583331793734" ID="ID_1915439953" MODIFIED="1583398387326" TEXT="Make sure the team fully understands it"/>
+<node CREATED="1583331829849" ID="ID_1666293176" MODIFIED="1583398399502" TEXT="Product vision inspires the team to common goals"/>
 <node CREATED="1583331851276" ID="ID_837853562" MODIFIED="1583331994033" TEXT="five interrelated parts">
 <icon BUILTIN="attach"/>
-<node CREATED="1583331883330" ID="ID_1895197" MODIFIED="1583331905214" TEXT="target group (end users)">
+<node CREATED="1583331883330" ID="ID_1895197" MODIFIED="1583398406126" TEXT="Target group (end users)">
 <icon BUILTIN="full-1"/>
 </node>
 <node CREATED="1583331953120" ID="ID_133730843" MODIFIED="1583331963574" TEXT="their goals">
@@ -63,15 +64,33 @@
 </node>
 <node CREATED="1583331997087" ID="ID_1499348271" MODIFIED="1583332045110" TEXT="key features">
 <icon BUILTIN="full-5"/>
-<node CREATED="1583394867505" ID="ID_935502288" MODIFIED="1583394975480" TEXT="Key features to to achieve their goals, needs, and value unique from what is available"/>
+<node CREATED="1583394867505" ID="ID_935502288" MODIFIED="1583398491854" TEXT="Key features to achieve their goals, needs, and value unique from what is available"/>
 </node>
 </node>
 <node CREATED="1583395036001" ID="ID_1739788864" MODIFIED="1583395056928" TEXT="The problem the product solves"/>
 <node CREATED="1583395065888" ID="ID_1270448231" MODIFIED="1583395087095" TEXT="Opportunity the solution brings"/>
+<node CREATED="1583399528196" ID="ID_586848577" MODIFIED="1583399538421" TEXT="This should come from the top of the house"/>
+<node CREATED="1583402331539" ID="ID_1101283895" MODIFIED="1583402390955" TEXT="Clear enough to convert it into strategy or road map"/>
+<node CREATED="1583402546799" ID="ID_133600798" MODIFIED="1583403767425" TEXT="The resultant experience or outcome after the work is done"/>
+</node>
+<node CREATED="1583399543466" ID="ID_820145103" MODIFIED="1583403942416" TEXT="Product strategy">
+<icon BUILTIN="wizard"/>
+<node CREATED="1583399647443" ID="ID_360140064" MODIFIED="1583401601514" TEXT="More concrete then vision but not as much as roadmap"/>
+<node CREATED="1583401604283" ID="ID_1514979113" MODIFIED="1583401621603" TEXT="Partial responsibility of Product Team"/>
+<node CREATED="1583403948328" ID="ID_1599524186" MODIFIED="1583403961161" TEXT="Who are we trying to serve"/>
+<node CREATED="1583403964046" ID="ID_363100462" MODIFIED="1583403975897" TEXT="What problems are we trying to address"/>
+<node CREATED="1583403977653" ID="ID_146838553" MODIFIED="1583403985984" TEXT="How are we planning to address the problems"/>
+<node CREATED="1583403986414" ID="ID_1162244479" MODIFIED="1583404000856" TEXT="How are we going to monetize our product"/>
+</node>
+<node CREATED="1583399319331" ID="ID_358631324" MODIFIED="1583399639151" TEXT="Product road map">
+<icon BUILTIN="xmag"/>
+<node CREATED="1583401630002" ID="ID_1867131272" MODIFIED="1583401658707" TEXT="Complete responsibility of Product Team"/>
 </node>
 </node>
 <node CREATED="1583317223504" ID="ID_399160763" MODIFIED="1583317677538" POSITION="right" TEXT="can be a team (multiple PO) "/>
 <node CREATED="1583317652081" ID="ID_1743403387" MODIFIED="1583317917090" POSITION="left" TEXT="with the dev/qa team">
+<node CREATED="1583399041417" ID="ID_1697967203" MODIFIED="1583399060317" TEXT="Lead and communicate Product Vision to the team"/>
+<node CREATED="1583317853837" ID="ID_1889283387" MODIFIED="1583317867618" TEXT="QA needs to understand the context"/>
 <node CREATED="1583317685015" ID="ID_272768208" MODIFIED="1583317691961" TEXT="guide on product vision"/>
 <node CREATED="1583317695681" ID="ID_1602320386" MODIFIED="1583317700410" TEXT="shared understanding"/>
 <node CREATED="1583317708881" ID="ID_1862842753" MODIFIED="1583317714073" TEXT="refining the backlog"/>
@@ -79,9 +98,8 @@
 <node CREATED="1583317739191" ID="ID_342881733" MODIFIED="1583317744969" TEXT="trust and empowerment"/>
 <node CREATED="1583317752734" ID="ID_1698311349" MODIFIED="1583317756914" TEXT="effective communication"/>
 <node CREATED="1583317789593" ID="ID_789514839" MODIFIED="1583317806161" TEXT="review and discuss scenarios"/>
-<node CREATED="1583317809813" ID="ID_909206804" MODIFIED="1583317817505" TEXT="give feeback"/>
-<node CREATED="1583317853837" ID="ID_1889283387" MODIFIED="1583317867618" TEXT="QA needs to understand the context"/>
 <node CREATED="1583317884920" ID="ID_1653075610" MODIFIED="1583317890201" TEXT="help with QA test plan"/>
+<node CREATED="1583317809813" ID="ID_909206804" MODIFIED="1583317817505" TEXT="give feeback"/>
 </node>
 <node CREATED="1583317920022" ID="ID_1714858277" MODIFIED="1583317923010" POSITION="right" TEXT="with other teams">
 <node CREATED="1583317924441" ID="ID_1910275517" MODIFIED="1583317927737" TEXT="SME"/>
