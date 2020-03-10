@@ -67,24 +67,56 @@
 <node CREATED="1583394867505" ID="ID_935502288" MODIFIED="1583398491854" TEXT="Key features to achieve their goals, needs, and value unique from what is available"/>
 </node>
 </node>
-<node CREATED="1583395036001" ID="ID_1739788864" MODIFIED="1583395056928" TEXT="The problem the product solves"/>
+<node CREATED="1583413875960" ID="ID_841044781" MODIFIED="1583414347673" TEXT="vision vs strategy vs roadmap">
+<node CREATED="1583413903359" ID="ID_824092245" MODIFIED="1583418982219" TEXT="vision">
+<icon BUILTIN="idea"/>
 <node CREATED="1583395065888" ID="ID_1270448231" MODIFIED="1583395087095" TEXT="Opportunity the solution brings"/>
 <node CREATED="1583399528196" ID="ID_586848577" MODIFIED="1583399538421" TEXT="This should come from the top of the house"/>
 <node CREATED="1583402331539" ID="ID_1101283895" MODIFIED="1583402390955" TEXT="Clear enough to convert it into strategy or road map"/>
 <node CREATED="1583402546799" ID="ID_133600798" MODIFIED="1583403767425" TEXT="The resultant experience or outcome after the work is done"/>
+<node CREATED="1583418618472" ID="ID_361291193" MODIFIED="1583418909949" TEXT="What and why of the product">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1583399543466" ID="ID_820145103" MODIFIED="1583403942416" TEXT="Product strategy">
+<node CREATED="1583418984285" ID="ID_1009206870" MODIFIED="1583419010492" TEXT="Guiding North Star and does not change"/>
+</node>
+<node CREATED="1583399543466" ID="ID_820145103" MODIFIED="1583419044497" TEXT="strategy">
 <icon BUILTIN="wizard"/>
 <node CREATED="1583399647443" ID="ID_360140064" MODIFIED="1583401601514" TEXT="More concrete then vision but not as much as roadmap"/>
 <node CREATED="1583401604283" ID="ID_1514979113" MODIFIED="1583401621603" TEXT="Partial responsibility of Product Team"/>
+<node CREATED="1583414565832" ID="ID_673037191" MODIFIED="1583414593456" TEXT="target market, a value proposition, and lay the groundwork for a business plan">
 <node CREATED="1583403948328" ID="ID_1599524186" MODIFIED="1583403961161" TEXT="Who are we trying to serve"/>
-<node CREATED="1583403964046" ID="ID_363100462" MODIFIED="1583403975897" TEXT="What problems are we trying to address"/>
-<node CREATED="1583403977653" ID="ID_146838553" MODIFIED="1583403985984" TEXT="How are we planning to address the problems"/>
+<node CREATED="1583403964046" ID="ID_363100462" MODIFIED="1583414645296" TEXT="What problems are we trying to address/solves"/>
 <node CREATED="1583403986414" ID="ID_1162244479" MODIFIED="1583404000856" TEXT="How are we going to monetize our product"/>
+<node CREATED="1583403977653" ID="ID_146838553" MODIFIED="1583403985984" TEXT="How are we planning to address the problems"/>
 </node>
-<node CREATED="1583399319331" ID="ID_358631324" MODIFIED="1583399639151" TEXT="Product road map">
+<node CREATED="1583414803640" ID="ID_203846522" MODIFIED="1583414865360" TEXT="dont narrow down too much, leave wiggle for roadmap"/>
+<node CREATED="1583415040288" ID="ID_804239748" MODIFIED="1583415060848" TEXT="set goals along the way"/>
+<node CREATED="1583415062768" ID="ID_236341881" MODIFIED="1583415063303" TEXT="remove obstacles through experimentation"/>
+<node CREATED="1583418607809" ID="ID_1262847070" MODIFIED="1583418746372" TEXT="How to realize the vision with a specific approach"/>
+<node CREATED="1583418782241" ID="ID_1497895323" MODIFIED="1583418960508" TEXT="Provide roadmap with  timeline for execution of the strategy">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1583419045491" ID="ID_1566339245" MODIFIED="1583419046133" TEXT="may undergo adjustments and refinements"/>
+</node>
+<node CREATED="1583399319331" ID="ID_358631324" MODIFIED="1583418334297" TEXT="road map">
 <icon BUILTIN="xmag"/>
 <node CREATED="1583401630002" ID="ID_1867131272" MODIFIED="1583401658707" TEXT="Complete responsibility of Product Team"/>
+<node CREATED="1583415130581" ID="ID_1340520702" MODIFIED="1583415131216" TEXT="roadmaps are tactical"/>
+<node CREATED="1583418335259" ID="ID_1984771606" MODIFIED="1583418338541" TEXT="unifying vision and strategy"/>
+<node CREATED="1583419085945" ID="ID_530227272" MODIFIED="1583419106829" TEXT="change is welcome but not in the current sprint"/>
+<node CREATED="1583419305524" ID="ID_1259192405" MODIFIED="1583419322532" TEXT="should align with strategy"/>
+<node CREATED="1583419509289" ID="ID_530702560" MODIFIED="1583419687372" TEXT="SOAPBOX - presentation guide">
+<node CREATED="1583419546076" ID="ID_1600137036" MODIFIED="1583419678532" TEXT="Subject - the topic"/>
+<node CREATED="1583419573179" ID="ID_887194194" MODIFIED="1583419663404" TEXT="Occasion - when, where, the context"/>
+<node CREATED="1583419695284" ID="ID_1658039001" MODIFIED="1583419725132" TEXT="Audience - to whom, will they understand, how much details"/>
+<node CREATED="1583419736299" ID="ID_1430485042" MODIFIED="1583419761180" TEXT="Purpose - your goals for presentation"/>
+<node CREATED="1583419763394" ID="ID_341585822" MODIFIED="1583419898108" TEXT="Before - prep/consensus for the presentation"/>
+<node CREATED="1583419903754" ID="ID_1529098881" MODIFIED="1583420004628" TEXT="Objection Handling - objections before or during presentation"/>
+<node CREATED="1583420009931" ID="ID_1903598688" MODIFIED="1583420036028" TEXT="eXecute - how to give compelling presentation"/>
+</node>
+</node>
+<node CREATED="1583415481926" ID="ID_695848868" MODIFIED="1583508079410" TEXT="unifying vision and strategy &#xa;Vision is your view of the future, essence of what you hope to achieve.&#xa;Strategy explains the approach you will take to realize that future state. &#xa;Strategy is direction of vision to reality, it is crossfunctional. &#xa;Roadmap is the more tactical plan for what you will do to get there and when you will arrive."/>
+</node>
 </node>
 </node>
 <node CREATED="1583317223504" ID="ID_399160763" MODIFIED="1583317677538" POSITION="right" TEXT="can be a team (multiple PO) "/>
