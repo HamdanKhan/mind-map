@@ -287,16 +287,16 @@
 </node>
 <node CREATED="1576232260809" ID="ID_355704764" MODIFIED="1583327915943" POSITION="left" TEXT="Looked at another way">
 <icon BUILTIN="idea"/>
-<node CREATED="1576232418626" ID="ID_414771430" MODIFIED="1581666189337" TEXT="Processes and tools should help individuals and interaction communicate more effectively">
+<node CREATED="1576232418626" ID="ID_414771430" MODIFIED="1583849263244" TEXT="Processes and tools should help individuals and interaction (communicate more effectively)">
 <icon BUILTIN="full-1"/>
 </node>
-<node CREATED="1576232449729" ID="ID_1508053351" MODIFIED="1576244949212" TEXT="Documentation should help achieve working software more regularly">
+<node CREATED="1576232449729" ID="ID_1508053351" MODIFIED="1583849278465" TEXT="Documentation should help achieve working software (more regularly)">
 <icon BUILTIN="full-2"/>
 </node>
-<node CREATED="1576232504336" ID="ID_395175532" MODIFIED="1576244961388" TEXT="Contracts should be written to help collaborate with customers more positively">
+<node CREATED="1576232504336" ID="ID_395175532" MODIFIED="1583849288747" TEXT="Contracts should be written to help collaborate with customers (more positively)">
 <icon BUILTIN="full-3"/>
 </node>
-<node CREATED="1576232465311" ID="ID_156403113" MODIFIED="1576244968773" TEXT="Plans and planning should help the ability to respond to change more directly">
+<node CREATED="1576232465311" ID="ID_156403113" MODIFIED="1583849299226" TEXT="Plans and planning should help the ability to respond to change (more directly)">
 <icon BUILTIN="full-4"/>
 </node>
 </node>
